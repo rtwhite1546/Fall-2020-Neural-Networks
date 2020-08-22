@@ -30,7 +30,8 @@ These are some common functions we have used in the class. Google them for more 
 | accuracy_score | sklearn.metrics | Report the classification accuracy |
 | classification_report | sklearn.metrics | Report the classification accuracy, recall, precision, and F1 for each class |
 | train_test_split | sklearn.model_selection | Randomly select specified percentage of rows of an ndarray dataset for a test set and the rest for a training set |
-| normalize | sklearn.preprocessing | Normalize the columns of an input ndarray by subtracting the mean and dividing by standard deviation |
+| normalize | sklearn.preprocessing | Normalize the columns of an input ndarray by converting them to unit vectors |
+| scale | sklearn.preprocessing | Standardize the columns of an input ndarray by subtracting the mean and dividing by standard deviation |
 
 ## SciPy Functions
 
