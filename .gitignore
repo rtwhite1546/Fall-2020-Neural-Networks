@@ -1,0 +1,4 @@
+
+datasets/flowers17/hdf5/features.hdf5
+datasets/animals/hdf5/features.hdf5
+datasets/caltech-101/hdf5/features.hdf5
